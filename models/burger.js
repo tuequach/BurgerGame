@@ -12,3 +12,5 @@ module.exports = function (sequelize, Datatypes){
     });
     return Burger;
 }
+
+module.exports = burger;
